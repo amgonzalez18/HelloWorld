@@ -1,5 +1,5 @@
 # Hello World
-
+[![Build C++](https://github.com/amgonzalez18/HelloWorld/actions/workflows/main.yaml/badge.svg)](https://github.com/amgonzalez18/HelloWorld/actions/workflows/main.yaml)
 This program demonstrates printing `Hello World` to the command line in C++.
 
 The project includes `test_runner.sh` to be compatible with [cpp-container](https://github.com/ChicoState/cpp-container)
